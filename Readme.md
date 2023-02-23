@@ -72,6 +72,12 @@ Build of complete toolchain takes ~1.5h. Instead of building it you can just dow
 
 6. Once the build completed, toolchain will be saved to folder `ToolChain/swift-android-toolchain` and compressed into archive `ToolChain/swift-android-toolchain.tar.gz`.
 
+## Known issues
+
+`clang` error workaround
+
+https://github.com/flowkey/swift-android-toolchain/pull/15/commits/a4c1c154049f8830b0261755ad3fd78f787ae11e
+
 ## Credits
 
 Original repo [vgorloff/swift-everywhere-toolchain](https://github.com/vgorloff/swift-everywhere-toolchain)
